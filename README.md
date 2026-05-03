@@ -8,23 +8,23 @@ Disk space analyzer with a graphical interface, file categorization, and real-ti
 
 ## Features / 機能
 
-* Scan disks, folders, and files
+* Scan disks, folders, and files /
   ディスク・フォルダ・ファイルのスキャン
-* Quick scan mode with background size calculation
+* Quick scan mode with background size calculation /
   クイックスキャン（サイズはバックグラウンドで計算）
-* Search by name or full path
+* Search by name or full path /
   名前またはパスで検索
-* Sorting by size, date, type, and category
+* Sorting by size, date, type, and category /
   サイズ・日付・種類・カテゴリで並び替え
-* Path exclusion by keywords
+* Path exclusion by keywords /
   キーワードによるパス除外
-* English and Japanese interface
+* English and Japanese interface /
   英語・日本語インターフェース対応
-* Open files and folders in Explorer
+* Open files and folders in Explorer /
   エクスプローラーでファイル・フォルダを開く
-* Disk usage display for all drives
+* Disk usage display for all drives /
   全ドライブの使用状況表示
-* Automatic refresh when files change
+* Automatic refresh when files change /
   ファイル変更時の自動更新
   
 <img width="1920" height="1004" alt="image" src="https://github.com/user-attachments/assets/2f3fa53d-6f29-4777-88a9-a4bf88172cb9" />
