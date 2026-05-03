@@ -2,8 +2,6 @@ from __future__ import annotations
 
 from pathlib import Path
 
-#The classifier is intentionally based on trusted directory structures.
-#t does NOT mark something as a game just because the path contains "game".
 #Priority order matters:
 #1) Windows / protected system paths
 #2) Known launcher game libraries, for example steamapps/common
