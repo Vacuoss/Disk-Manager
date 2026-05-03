@@ -27,7 +27,8 @@ Disk space analyzer with a graphical interface, file categorization, and real-ti
 * Automatic refresh when files change /
   ファイル変更時の自動更新
   
-<img width="1920" height="1004" alt="image" src="https://github.com/user-attachments/assets/2f3fa53d-6f29-4777-88a9-a4bf88172cb9" />
+<img width="1277" height="845" alt="image" src="https://github.com/user-attachments/assets/a20c22ec-e4bf-4dba-9e5c-a5b36edb926c" />
+
 
 ---
 
